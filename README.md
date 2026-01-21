@@ -3,7 +3,7 @@
 An **AI generated** mp3/mp4 player, based on TeamSESH and VHS culture. Includes many functions (just imagine that it's a stereo tape recorder).
 
 To start:
-retro_player.exe file to launch, search.exe to search multiple tracks(load in dedicated terminal!)
+retro_player.exe file to launch, search.exe to search multiple tracks(loads in dedicated terminal!)
 alternatively .py files in bin folder
 
 Bindings:
