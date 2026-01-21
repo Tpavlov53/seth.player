@@ -1,6 +1,7 @@
 # seth.player 0.53
 
 An **AI generated** mp3/mp4 player, based on TeamSESH and VHS culture. Includes many functions (just imagine that it's a stereo tape recorder).
+! This player is designed for audio/video playback, optimized for capturing via external software (like OBS) and subsequently recording onto authentic VHS tape. So it doesn't have any vhs filters like ntsc-qt or -rs (i might add one?)
 
 To start:
 retro_player.exe file to launch, search.exe to search multiple tracks(loads in dedicated terminal!)
