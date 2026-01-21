@@ -14,7 +14,7 @@ T - to skip the song and move to the last 5 seconds of the track (debug, to see 
 How to use:
 If you want to customize the TeamSESH logo, you can change the logos (logos folder) and use reference of the source files. The video must have a dark background and be in mp4 format for the logo to be transparent)
 To add songs, you need to go at music folder, and create a folder and name it **with playlist title**, then add the song with the metadata included, as in, it should have: album cover, title, contributing artists. 
-It won't matter how the file is called.
+It won't matter how the file is called. Same for the video, title and contributing artists.
 
 Features: 
 It will show you the exact playlist, artist, title of the song.
