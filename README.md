@@ -23,6 +23,7 @@ Has a stereo volume bar.
 Has three TeamSESH logos on the bottom, that will appear after program will show the metadata's of the song.
 Preloads the previous or next file 1.5 seconds after the start of the song, no matter it is a music file or a video file.
 Jitters the UI like a real VHS player with it's heads. 
+The album cover is a background that goes down like a tape. It slows down when the songs ends, and starts when the song goes. Fades in and out if there's video next to it.
 Stops the player and "ejects the tape" if there's none of the songs left.
 
 Bugs:
