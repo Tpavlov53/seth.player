@@ -5,7 +5,7 @@ An **AI generated** mp3/mp4 player, based on TeamSESH and VHS culture. Includes 
 
 To start:
 retro_player.exe file to launch, search.exe to search multiple tracks(loads in dedicated terminal!)
-alternatively .py files in bin folder
+alternatively .py files in bin folder (python written)
 
 Bindings:
 Space - to start/stop; 
