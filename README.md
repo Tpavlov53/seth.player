@@ -31,6 +31,7 @@ Bugs:
 Is slow while launching, and might be slower in that regard, if there's too many songs.
 Will crash if you skip songs too fast.
 Might crash if you use pause frequently.
+Keep in mind that it is beta and not serious project.
 
 Tested on:
 W11	10.0.26200 Build 26200
